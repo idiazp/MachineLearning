@@ -14,4 +14,4 @@ Each of these methods has its strengths depending on the type of data and the pr
 - [Wikipedia on Classification](https://en.wikipedia.org/wiki/Statistical_classification)
 - [A Guide to Classification Algorithms](https://towardsdatascience.com/a-beginners-guide-to-machine-learning-algorithms-4372c52aa6da)
 
-[Back to Home](README.md)
+[Back to Home](index.md)
