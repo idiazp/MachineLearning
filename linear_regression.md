@@ -12,4 +12,4 @@ Linear regression assumes a linear relationship between the variables. The model
 - [Wikipedia on Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
 - [A Practical Guide to Linear Regression](https://www.datascience.com/resources/notebooks/linear-regression-tutorial)
 
-[Back to Home](README.md)
+[Back to Home](index.md)
